@@ -7,7 +7,7 @@
 
 🛠️ Electrical Engineer | With experience in Data Science and Machine Learning
 
-🐾 Cat Entussiast | Proud parent of four cats and designer of a custom catio, ensuring my feline friends have the best space to play and relax
+🐾 Cat Entussiast
 
 😶‍🌫️ 
 
