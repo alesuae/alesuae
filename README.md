@@ -9,7 +9,7 @@
 
 🐾 Cat Entussiast | Proud parent of four cats and designer of a custom catio, ensuring my feline friends have the best space to play and relax
 
-😶‍🌫️ And I reaaally love dank memes
+😶‍🌫️ 
 
                
 ## Tech Stack 
