@@ -1,13 +1,9 @@
-<h2 align="center"> Hi 👋 , I'm Alejandra Toro <br/></h2> 
+<h2 align="center"> Hi 👋 <br/></h2> 
 
 
 <h3 align="center"> <img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s640x960/af7dc108c6fd722e684f767aa7ad6b9f72f9d9c9.gif" width="60px">  About me  <img src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s640x960/af7dc108c6fd722e684f767aa7ad6b9f72f9d9c9.gif" width="60px"><br> <br></h3> 
 
-🎓 MSc. Student at FCFM | Currently pursuing a master's degree in Data Science to deepen my understanding and expertise in this exciting field
-
-🛠️ Electrical Engineer | With experience in Data Science and Machine Learning
-
-🐾 Cat Entussiast
+🎓 MSc. Student at FCFM & Electrical Engineer 
 
 😶‍🌫️ 
 
